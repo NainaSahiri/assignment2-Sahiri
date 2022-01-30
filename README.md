@@ -54,3 +54,11 @@ Table describes about sports. It has three columns. First column is name of the 
 |Javelin|Uppal Stadium|$150|
 |Tug of War|Bearcat Stadium|$300|
 |High Jump|Bearcat Arena|$100|
+
+---
+# Pithy Quotes 
+>"When you do not know what to choose, show total involvement in everything."
+-*Sadhguru*.
+
+>"The fear is simply because you are not living with life, you are living in your mind."
+-*Sadhguru*.
