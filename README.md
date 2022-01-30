@@ -46,7 +46,7 @@ The Hyderabadi cuisine is an amalgamation of Mughal, Turkish, and Arabic along w
 
 ---
 ## Sports
-Table is 
+Table describes about sports. It has three columns. First column is name of the sport. Second column is location where you can participate in the sport. Third column is amount of money expected to pay for personal equipment.
 
 | Sport Name | Location | Amount Payable |
 |------------|----------|----------------|
