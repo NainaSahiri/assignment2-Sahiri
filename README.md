@@ -43,3 +43,14 @@ The Hyderabadi cuisine is an amalgamation of Mughal, Turkish, and Arabic along w
     - Tea
 
 **[Add](AboutMe.md)**
+
+---
+## Sports
+Table is 
+
+| Sport Name | Location | Amount Payable |
+|------------|----------|----------------|
+|Sprint Race |Lbnagar Stadium|$200|
+|Javelin|Uppal Stadium|$150|
+|Tug of War|Bearcat Stadium|$300|
+|High Jump|Bearcat Arena|$100|
